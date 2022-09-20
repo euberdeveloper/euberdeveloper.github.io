@@ -57,7 +57,7 @@
     const infos: { [id: string]: Box[] } = {
         Education: [
             {
-                img: "./images/kth.jpg",
+                img: "./images/tum.jpg",
                 title: "Attending Master's in Computer Science",
                 subtitles: [
                     {flag: "De", text: "TUM, Munich, Germany | October 2021 - Current"},
